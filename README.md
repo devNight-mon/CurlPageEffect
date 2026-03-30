@@ -64,4 +64,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-Developed by [DevNight](https://github.com/devnight)
+Developed by [devNight-mon]([https://github.com/devNight-mon)
